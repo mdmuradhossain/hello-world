@@ -1,2 +1,2 @@
 # hello-world
-##hello world program using different language
+##hello world program using different programming language
